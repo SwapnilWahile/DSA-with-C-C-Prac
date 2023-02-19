@@ -13,7 +13,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 using namespace std;
 int main()
 {
-    string str = "geekforgeeks";
+    string str = "abcdeefighopuwy";
     char arr[7];
     for(int i =0; i<str.length(); i++){
         int flag = 1;
